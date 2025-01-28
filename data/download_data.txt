@@ -1,0 +1,2 @@
+1st file : https://moodle.iut-tlse3.fr/pluginfile.php/723615/mod_resource/content/1/books_data_t.csv.zip
+2nd file : https://moodle.iut-tlse3.fr/pluginfile.php/723618/mod_resource/content/1/Books_rating_t%202.csv.zip
